@@ -1,0 +1,17 @@
+PRZYKLADY UZYCIA!
+
+
+
+
+f=inline('x^8-1000')
+a=2
+b=3
+liczba_iteracji=3
+
+falsi_2:
+
+falsi_2(f,a,b,liczba_iteracji)
+
+polowienie:
+
+polowienie(f,a,b,liczba_iteracji)
